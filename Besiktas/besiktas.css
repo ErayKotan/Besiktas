@@ -1,0 +1,27 @@
+.resimboyut {
+    margin-top: 20PX;
+    height: 300px;
+    width: 600px;
+    margin-left: 400px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 25px;
+}
+.resimozellik {
+    border-radius: 25px;
+}
+.hakkimizda {
+    height: 180px;
+    width: 250px;
+    margin-left: 200px;
+    margin-bottom: 0px
+}
+.kurulus {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.product {
+    height: 300px;
+    width: 500px;
+    margin-left: 100px;
+    
+}
